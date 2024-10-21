@@ -1,17 +1,17 @@
-# Online Sales Report - Power BI Project
+# Data Professional Survey Analysis - Power BI Project
 
 ## Project Overview
 
-This Power BI project provides an Online Sales Report to visualize sales performance, customer behavior, product success, and other key metrics. It aims to help stakeholders optimize strategies based on data insights.
+This Power BI project provides an analysis of data from a professional survey to visualize trends, insights, and key metrics within the data professional community. It aims to help stakeholders make informed decisions based on survey results.
 
 ## Features
 
-- **Sales Overview**: Visual representation of total sales, transactions, and trends over time.
-- **Product Performance**: Analysis of top-selling products and categories.
-- **Customer Insights**: Breakdown of customer demographics and behavior.
-- **Geographical Analysis**: Sales distribution across regions or countries.
-- **Sales by Channel**: Comparison of sales across different online channels.
-- **Time-based Analysis**: Performance by month, quarter, or year.
+- **Survey Overview**: Visual representation of survey participation rates and demographics.
+- **Skillset Analysis**: Breakdown of key skills and technologies used by data professionals.
+- **Experience Insights**: Analysis of years of experience and career progression.
+- **Geographical Distribution**: Visualization of respondents' locations and regional trends.
+- **Job Role Analysis**: Comparison of various job roles and their responsibilities.
+- **Salary Insights**: Overview of salary trends based on experience, location, and job role.
 
 ## Installation and Setup
 
@@ -20,14 +20,12 @@ This Power BI project provides an Online Sales Report to visualize sales perform
 
 2. **Import Data**:
    Load the following data files into Power BI:
-   - `sales_data.csv`
-   - `product_data.csv`
-   - `customer_data.csv`
+   - `dataset.xlsx`
    
    Ensure the relationships between tables are correctly set up within Power BI.
 
 3. **Create Reports**:
-   Use Power BI's drag-and-drop functionality to create the required visuals and reports such as sales overviews, customer insights, product performance, and geographical analysis.
+   Use Power BI's drag-and-drop functionality to create the required visuals and reports such as survey overviews, skillset insights, and salary trends.
 
 4. **Publish to Power BI Service (Optional)**:
    Once your reports are ready, you can optionally publish them to the Power BI Service for online access and sharing with stakeholders.
@@ -38,7 +36,7 @@ This Power BI project provides an Online Sales Report to visualize sales perform
    Open the Power BI Desktop file (`.pbix`) or access the published report online if it has been uploaded to Power BI Service.
    
 - **Apply Filters**:
-   Use interactive filters to explore various metrics such as date, product category, region, and customer segmentation.
+   Use interactive filters to explore various metrics such as survey responses, skill levels, and geographical data.
 
 - **Export Reports**:
    Export your reports and dashboards as PDFs, PowerPoint presentations, or Excel files to share with stakeholders.
@@ -47,9 +45,8 @@ This Power BI project provides an Online Sales Report to visualize sales perform
 ![Dashboard](https://github.com/VivekChauhan3/PowerBI-project-Practice/blob/main/image1.png)
 ![Dashboard](https://github.com/VivekChauhan3/PowerBI-project-Practice/blob/main/image2.png)
 
-## MIT License
 
-Copyright (c) 2024 VivekChauhan3
+## Copyright (c) 2024 VivekChauhan3
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
